@@ -1,0 +1,67 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    background: url(/Images/background.jpg) 800px -35px no-repeat #000 !important;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: left;
+  padding-top:20px;
+  color:#222222;
+}
+
+/* Custom styles */
+.registerInitial{
+    margin-top:60px;
+}
+
+.registerInitial label{
+   font-size: 15px;
+}
+
+.registerInitial input[type="submit"]{
+   width:100%;
+   background:#ffd700;
+   border-color:#ffd700;
+}
+
+label{
+    color: #eee !important;
+}
+
+th label{
+    color: #ffd700!important;
+}
+
+td{
+    color: #fff!important;
+}
+
+
+
+

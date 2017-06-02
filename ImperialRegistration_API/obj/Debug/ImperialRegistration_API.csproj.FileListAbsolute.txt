@@ -1,0 +1,71 @@
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\ApplicationInsights.config
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll.config
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Data.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Logic.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Data.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Logic.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.xml
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.csprojResolveAssemblyReference.cache
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\ApplicationInsights.config
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll.config
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Data.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Logic.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Data.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Logic.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.csprojResolveAssemblyReference.cache
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\ApplicationInsights.config
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll.config
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\ImperialRegistration_API.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Data.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Logic.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\NLog.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Data.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Logic.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.Web.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\bin\NLog.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.csprojResolveAssemblyReference.cache
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegistration_API\obj\Debug\ImperialRegistration_API.pdb

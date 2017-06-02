@@ -1,0 +1,266 @@
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ApplicationInsights.config
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\csc.exe
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\vbc.exe
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll.config
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ImperialRegister.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\EntityFramework.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Owin.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Razor.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\WebGrease.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Logic.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Data.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.Razor.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\EntityFramework.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Logic.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\bin\Data.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.csprojResolveAssemblyReference.cache
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ApplicationInsights.config
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\csc.exe
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\vbc.exe
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll.config
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Owin.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Razor.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\WebGrease.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Logic.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Data.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Razor.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Logic.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\bin\Data.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.csprojResolveAssemblyReference.cache
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.dll
+C:\Users\ycoello\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ApplicationInsights.config
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\csc.exe
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\vbc.exe
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll.config
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegister.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\NLog.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Owin.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Razor.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\WebGrease.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Logic.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Data.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\ImperialRegistration_API.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.Web.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\NLog.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Helpers.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Mvc.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Optimization.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.Razor.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Antlr3.Runtime.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Newtonsoft.Json.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\EntityFramework.SqlServer.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Logic.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\bin\Data.pdb
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.csprojResolveAssemblyReference.cache
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.dll
+C:\Users\Yng\Desktop\ImperialRegister\ImperialRegister\obj\Debug\ImperialRegister.pdb

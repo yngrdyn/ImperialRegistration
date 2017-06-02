@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ImperialRegisterModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="description" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="create_date" Type="DateTime" Nullable="false" Precision="3" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="update_date" Type="DateTime" Nullable="false" Precision="3" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Users" Relationship="ImperialRegisterModel.FK__User__role_id__3C69FB99" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityContainer Name="ImperialRegisterEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="Species" EntityType="ImperialRegisterModel.Species" />
+    <EntitySet Name="Status" EntityType="ImperialRegisterModel.Status" />
+    <EntitySet Name="Users" EntityType="ImperialRegisterModel.User" />
+    <AssociationSet Name="FK__User__role_id__3C69FB99" Association="ImperialRegisterModel.FK__User__role_id__3C69FB99">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__species_id__3D5E1FD2" Association="ImperialRegisterModel.FK__User__species_id__3D5E1FD2">
+      <End Role="Species" EntitySet="Species" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__status_id__3E52440B" Association="ImperialRegisterModel.FK__User__status_id__3E52440B">
+      <End Role="Status" EntitySet="Status" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <EntitySet Name="SystemUsers" EntityType="ImperialRegisterModel.SystemUser" />
+  </EntityContainer>
+  <EntityType Name="Species">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="classification" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="designation" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="average_height" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="skin_colors" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="hair_colors" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="eye_colors" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="homeworld" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="language" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Users" Relationship="ImperialRegisterModel.FK__User__species_id__3D5E1FD2" FromRole="Species" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Status">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Users" Relationship="ImperialRegisterModel.FK__User__status_id__3E52440B" FromRole="Status" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="username" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="role_id" Type="Int32" />
+    <Property Name="species_id" Type="Int32" />
+    <Property Name="status_id" Type="Int32" />
+    <Property Name="create_date" Type="DateTime" Precision="3" annotation:StoreGeneratedPattern="Computed" />
+    <Property Name="update_date" Type="DateTime" Precision="3" annotation:StoreGeneratedPattern="Computed" />
+    <NavigationProperty Name="Role" Relationship="ImperialRegisterModel.FK__User__role_id__3C69FB99" FromRole="User" ToRole="Role" />
+    <NavigationProperty Name="Species" Relationship="ImperialRegisterModel.FK__User__species_id__3D5E1FD2" FromRole="User" ToRole="Species" />
+    <NavigationProperty Name="Status" Relationship="ImperialRegisterModel.FK__User__status_id__3E52440B" FromRole="User" ToRole="Status" />
+  </EntityType>
+  <Association Name="FK__User__role_id__3C69FB99">
+    <End Type="ImperialRegisterModel.Role" Role="Role" Multiplicity="0..1" />
+    <End Type="ImperialRegisterModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="role_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__species_id__3D5E1FD2">
+    <End Type="ImperialRegisterModel.Species" Role="Species" Multiplicity="0..1" />
+    <End Type="ImperialRegisterModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Species">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="species_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__status_id__3E52440B">
+    <End Type="ImperialRegisterModel.Status" Role="Status" Multiplicity="0..1" />
+    <End Type="ImperialRegisterModel.User" Role="User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Status">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="status_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="SystemUser">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="name" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="create_date" Type="DateTime" Precision="3" />
+    <Property Name="update_date" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

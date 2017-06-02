@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@section Scripts
+{
+    <script src="@Url.Content("~/Scripts/blockUI.js")"></script>
+    <script src="@Url.Content("~/Scripts/home.js")"></script>
+    
+}
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert("@TempData["Message"]");
+    </script>
+}
+
+@if (Session["rebel"] != null)
+{
+    <script>
+        
+    </script>
+}
+
+<div class="jumbotron">
+    <h1>Are you registered in Tatooine?</h1>
+    <div class="registerInitial">
+        @Html.Partial("~/Views/Users/_Create.cshtml")
+    </div>
+</div>

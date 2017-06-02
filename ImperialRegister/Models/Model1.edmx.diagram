@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7222c95d5d6049c1baf777078affb42d" Name="Diagram1">
+        <EntityTypeShape EntityType="ImperialRegisterModel.Role" Width="1.5" PointX="0.5" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ImperialRegisterModel.Species" Width="1.5" PointX="4.75" PointY="3" />
+        <EntityTypeShape EntityType="ImperialRegisterModel.Status" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="ImperialRegisterModel.User" Width="1.5" PointX="2.75" PointY="0.5" />
+        <AssociationConnector Association="ImperialRegisterModel.FK__User__role_id__3C69FB99" />
+        <AssociationConnector Association="ImperialRegisterModel.FK__User__species_id__3D5E1FD2" />
+        <AssociationConnector Association="ImperialRegisterModel.FK__User__status_id__3E52440B" />
+        <EntityTypeShape EntityType="ImperialRegisterModel.SystemUser" Width="1.5" PointX="0.75" PointY="3.375" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,3 @@
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\ImperialRegister_UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\UnitTest.pdb

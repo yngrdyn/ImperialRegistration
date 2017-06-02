@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ImperialRegistration_API.Service" CodeBehind="Service.svc.cs" %>

@@ -1,0 +1,18 @@
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Data\bin\Debug\Data.dll.config
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Data\bin\Debug\Data.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Data\bin\Debug\Data.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Data\obj\Debug\Data.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Data\obj\Debug\Data.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\Data\bin\Debug\Data.dll.config
+C:\Users\ycoello\Desktop\ImperialRegister\Data\bin\Debug\Data.dll
+C:\Users\ycoello\Desktop\ImperialRegister\Data\bin\Debug\Data.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\Data\obj\Debug\Data.dll
+C:\Users\ycoello\Desktop\ImperialRegister\Data\obj\Debug\Data.pdb
+C:\Users\Yng\Desktop\ImperialRegister\Data\bin\Debug\Data.dll.config
+C:\Users\Yng\Desktop\ImperialRegister\Data\bin\Debug\Data.dll
+C:\Users\Yng\Desktop\ImperialRegister\Data\bin\Debug\Data.pdb
+C:\Users\Yng\Desktop\ImperialRegister\Data\bin\Debug\NLog.dll
+C:\Users\Yng\Desktop\ImperialRegister\Data\bin\Debug\NLog.xml
+C:\Users\Yng\Desktop\ImperialRegister\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Yng\Desktop\ImperialRegister\Data\obj\Debug\Data.dll
+C:\Users\Yng\Desktop\ImperialRegister\Data\obj\Debug\Data.pdb

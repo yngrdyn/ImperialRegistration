@@ -1,0 +1,74 @@
+﻿@model IEnumerable<ImperialRegister.Models.Species>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Species</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            <label for="name" class="control-label">Name</label>
+        </th>
+        <th>
+            <label for="classification" class="control-label">Classification</label>
+        </th>
+        <th>
+            <label for="designation" class="control-label">Designation</label>
+        </th>
+        <th>
+            <label for="average_height" class="control-label">Avg. Weight</label>
+        </th>
+        <th>
+            <label for="skin_colors" class="control-label">Skin color</label>
+        </th>
+        <th>
+            <label for="hair_colors" class="control-label">Hair color</label>
+        </th>
+        <th>
+            <label for="eye_colors" class="control-label">Eye color</label>
+        </th>
+        <th>
+            <label for="homeworld" class="control-label">Homeworld</label>
+        </th>
+        <th>
+            <label for="language" class="control-label">Language</label>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.classification)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.designation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.average_height)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.skin_colors)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.hair_colors)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.eye_colors)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.homeworld)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.language)
+        </td>
+    </tr>
+}
+
+</table>

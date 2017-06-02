@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ImperialRegister.Models.User>
+
+<table class="table">
+    <tr>
+        <th>
+            <label for="username" class="control-label">Name</label>
+        </th>
+        <th>
+            <label for="Role.name" class="control-label">Role</label>
+        </th>
+        <th>
+            <label for="Species.name" class="control-label">Specie</label>
+        </th>
+        <th>
+            <label for="Status.name" class="control-label">Status</label>
+        </th>
+        <th>
+            <label for="create_date" class="control-label">Created</label>
+        </th>
+        <th>
+            <label for="update_date" class="control-label">Updated</label>
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Role.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Species.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.create_date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.update_date)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Users", new { id = item.Id }, null) |
+                @Html.ActionLink("Details", "Details", "Users", new { id = item.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "Users", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+
+</table>
+

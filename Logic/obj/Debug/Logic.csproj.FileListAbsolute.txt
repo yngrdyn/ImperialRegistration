@@ -1,0 +1,26 @@
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\bin\Debug\Logic.dll.config
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\bin\Debug\Logic.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\bin\Debug\Logic.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\bin\Debug\Data.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\bin\Debug\Data.pdb
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\obj\Debug\Logic.dll
+C:\Users\Josma\documents\visual studio 2015\Projects\ImperialRegister\Logic\obj\Debug\Logic.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\bin\Debug\Logic.dll.config
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\bin\Debug\Logic.dll
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\bin\Debug\Logic.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\bin\Debug\Data.dll
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\bin\Debug\Data.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\obj\Debug\Logic.dll
+C:\Users\ycoello\Desktop\ImperialRegister\Logic\obj\Debug\Logic.pdb
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\Logic.dll.config
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\Logic.dll
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\Logic.pdb
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\Data.dll
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\NLog.dll
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\Data.pdb
+C:\Users\Yng\Desktop\ImperialRegister\Logic\bin\Debug\NLog.xml
+C:\Users\Yng\Desktop\ImperialRegister\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Yng\Desktop\ImperialRegister\Logic\obj\Debug\Logic.dll
+C:\Users\Yng\Desktop\ImperialRegister\Logic\obj\Debug\Logic.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ImperialRegisterModelStoreContainer" CdmEntityContainer="ImperialRegisterEntities">
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="ImperialRegisterModel.Role">
+        <MappingFragment StoreEntitySet="Role">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="update_date" ColumnName="update_date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Species">
+      <EntityTypeMapping TypeName="ImperialRegisterModel.Species">
+        <MappingFragment StoreEntitySet="Species">
+          <ScalarProperty Name="language" ColumnName="language" />
+          <ScalarProperty Name="homeworld" ColumnName="homeworld" />
+          <ScalarProperty Name="eye_colors" ColumnName="eye_colors" />
+          <ScalarProperty Name="hair_colors" ColumnName="hair_colors" />
+          <ScalarProperty Name="skin_colors" ColumnName="skin_colors" />
+          <ScalarProperty Name="average_height" ColumnName="average_height" />
+          <ScalarProperty Name="designation" ColumnName="designation" />
+          <ScalarProperty Name="classification" ColumnName="classification" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Status">
+      <EntityTypeMapping TypeName="ImperialRegisterModel.Status">
+        <MappingFragment StoreEntitySet="Status">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="ImperialRegisterModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="update_date" ColumnName="update_date" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="status_id" ColumnName="status_id" />
+          <ScalarProperty Name="species_id" ColumnName="species_id" />
+          <ScalarProperty Name="role_id" ColumnName="role_id" />
+          <ScalarProperty Name="username" ColumnName="username" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SystemUsers">
+      <EntityTypeMapping TypeName="ImperialRegisterModel.SystemUser">
+        <MappingFragment StoreEntitySet="SystemUser">
+          <ScalarProperty Name="update_date" ColumnName="update_date" />
+          <ScalarProperty Name="create_date" ColumnName="create_date" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

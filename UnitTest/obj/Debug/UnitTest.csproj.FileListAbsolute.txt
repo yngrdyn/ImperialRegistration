@@ -1,0 +1,13 @@
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\Josma\Documents\Visual Studio 2015\Projects\ImperialRegister\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\bin\Debug\nunit.framework.dll
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\bin\Debug\nunit.framework.xml
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\ycoello\Desktop\ImperialRegister\UnitTest\obj\Debug\UnitTest.pdb
